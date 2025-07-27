@@ -24,6 +24,5 @@ An interactive dashboard built to visualize option pricing using the Black-Schol
 
 ## 🔧 Tech Stack & Dependencies
 
-- [`yfinance`](https://pypi.org/project/yfinance/) – Retrieves real-time asset price data  
 - [`numpy`](https://numpy.org/) – Performs numerical computations  
 - [`matplotlib`](https://matplotlib.org/) – Renders heatmap visualizations  
